@@ -2,7 +2,7 @@
 <hr>
 <p align="center" display="flex">
 <img class="imagen" height="200px" src="logo-brown.png" alt="joven-Animado"/>
-<img class="imagen" height="200px" src="logo-brownmodo.png" alt="joven-Animado"/>
+<img class="imagen" height="200px" src="images/fondo2.png.png" alt="joven-Animado"/>
 </p>
 <hr>
 <p>Hello everyone! I am Dainer Manuel Vargas Jaraba, a lover
