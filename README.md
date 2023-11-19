@@ -1,7 +1,7 @@
 <h1>Hello, i'm Dainer Vargas </h1> 
 <hr>
 <p align="center" display="flex">
-<img class="imagen" height="200px" src="images/fondo2.png" alt="Logo background"/>
+<img class="imagen" height="200px"  style="border-radius: 10%;"  src="images/fondo2.png" alt="Logo background"/>
 </p>
 <hr>
 <p>Hello everyone! I am Dainer Manuel Vargas Jaraba, a lover
