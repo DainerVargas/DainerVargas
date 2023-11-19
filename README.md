@@ -1,4 +1,4 @@
-<h1>Hello, i'm Dainer Vargas </h1> 
+<h1>🖐 Hello, i'm Dainer Vargas 👨‍💻</h1> 
 <hr>
 <div align="center" display="flex">
 <img class="imagen" height="200px" style="border-radius: 10%;" src="images/fondo1.png" alt="Logo background"/>
