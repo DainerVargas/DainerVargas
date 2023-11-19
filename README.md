@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @DainerVargas
-- 👀 I’m interested in the programing 
-- 🌱 I’m currently learning to program
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Instagram: @dainer_varggas
+<h1>Hello, i'm Dainer Vargas </h1> 
+<hr>
+<img src="jovenPrincipal-gafas.png" alt="joven-Animado"/>
+<hr>
+<p>Hello everyone! I am Dainer Manuel Vargas Jaraba, a lover
+of web design. I have had notable achievements, such as
+Regional Champion of La Guajira and represents my region
+in Cúcuta. <br> Every day I continue to pursue excellence in web design, exploring new trends and techniques to provide unique and attractive solutions to my clients and audience. </p>
 
-<!---
-DainerVargas/DainerVargas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me Instagram: @dainer_varggas
+
