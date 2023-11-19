@@ -1,7 +1,6 @@
 <h1>Hello, i'm Dainer Vargas </h1> 
 <hr>
 <p align="center" display="flex">
-<img class="imagen" height="200px" src="logo-brown.png" alt="joven-Animado"/>
 <img class="imagen" height="200px" src="images/fondo2.png.png" alt="joven-Animado"/>
 </p>
 <hr>
