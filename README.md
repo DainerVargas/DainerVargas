@@ -11,6 +11,7 @@
 <img src="images/photoShop.png" alt="PhotoShop"/>
 <img src="images/php.png" alt="PHP"/>
 <img src="images/xd.png" alt="Adobe xd"/>
+<img src="images/livewire.png" alt="Livewire"/>
 </div>
 </div>
 <hr>
